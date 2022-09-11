@@ -18,8 +18,9 @@ const Navbar = () => {
                     <li>Testimonials</li>
                 </ul>
             </div>
-            <button className="button n-button" style={{padding: "13px 3px"}}>
-                Contact Us
+            <button className="button n-button" >
+                {/* style={{padding: "13px 3px"}}' */}
+                Contact
             </button>
         </div>
     </div>

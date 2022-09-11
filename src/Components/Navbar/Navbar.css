@@ -26,6 +26,7 @@
 
 .n-list {
   flex: 10;
+  font-size: 120%;
 }
 
 .n-list > ul {
