@@ -12,8 +12,7 @@ const Works = () => {
         <div className="services-left">
             <span>Works for All these</span>
             <span>Brands & Clients</span>
-            <span>Quas, voluptas dolor sit amet consectetur adipisicing elit.
-                <br />
+            <span>
                 Lorem ipsum dolor sit amet consectetur, adipisicing elit. Similique.
                 <br />
                 explicabo accusamus nulla libero tenetur enim dicta aperiam quod quia blanditiis?
