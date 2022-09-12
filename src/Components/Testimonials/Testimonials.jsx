@@ -33,6 +33,11 @@ const Testimonials = () => {
       review:
         "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex officiis molestiae quod tempora laudantium, cumque error a nisi placeat quae exercitationem, maiores reiciendis! Eaque dicta minima, iure maiores dolorum sed.",
     },
+
+    {
+      img: profilePic1,
+      review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae molestiae sequi inventore recusandae incidunt ad rerum dicta quibusdam!",
+    },
   ];
 
 

@@ -59,6 +59,7 @@
 .t-card > span {
   color: var(--black);
   font-size: 1.2rem;
+  margin-top: 20px;
 }
 
 /* Slider */
