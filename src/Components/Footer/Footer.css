@@ -1,0 +1,42 @@
+.footer {
+  display: flex;
+  align-items: center;
+  margin: -0.89rem -3.5rem;
+  position: relative;
+  margin-top: -7rem;
+  overflow: hidden;
+}
+
+.footer-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 100%;
+  margin-top: 2rem;
+  gap: 4rem;
+  color: white;
+}
+
+.footer-content span {
+  margin-top: 8rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: white;
+}
+
+.footer-icons {
+  display: flex;
+  gap: 2rem;
+  transition: 0.6s;
+}
+
+.footer-icons > * {
+  transition: 0.3s;
+}
+
+.footer-icons > *:hover {
+  cursor: pointer;
+  transform: scale(1.5);
+}
