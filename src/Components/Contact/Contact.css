@@ -1,1 +1,46 @@
-/* 1:46:00 */
+.contact-form {
+  padding: 0 3rem;
+  display: flex;
+  height: 80vh;
+  margin-top: 8rem;
+}
+
+.contact-right {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  flex: 1;
+}
+
+.contact-right > form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: center;
+  margin-left: 9rem;
+}
+
+.contact-right .user {
+  width: 25rem;
+  height: 2.6rem;
+  padding: 0.4rem;
+  outline: none;
+  border: 2px solid var(--orange);
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+textarea {
+  height: 6rem !important;
+}
+
+.c-blur1 {
+  top: 1rem;
+  left: 8rem;
+}
+
+.contact-form span {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--black);
+}
